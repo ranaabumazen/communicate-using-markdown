@@ -8,8 +8,12 @@
 $ git init
 Initialized empty Git repository in your code directory.
 ```
+####  Tasks list
 
-
+- [x] Create new branch
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 ###### I have added a title to index.md file, image and I have added code example (git init).
 
