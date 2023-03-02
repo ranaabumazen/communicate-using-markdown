@@ -1,0 +1,20 @@
+# Communicate Using Markdown
+
+![Image of flowers](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/flower-meanings-1671510935.jpg?crop=0.804xw:1.00xh;0.0994xw,0&resize=640:*)
+
+
+
+```
+$ git init
+Initialized empty Git repository in your code directory.
+```
+####  Tasks list
+
+- [x] Create new branch
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+###### I have added a title to index.md file, image and I have added code example (git init).
+
+
