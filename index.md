@@ -1,2 +1,5 @@
 # Communicate Using Markdown
-###### add title to index.md file
+
+![Image of flowers](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/flower-meanings-1671510935.jpg?crop=0.804xw:1.00xh;0.0994xw,0&resize=640:*)
+
+###### I have added a title to index.md file, and image.
